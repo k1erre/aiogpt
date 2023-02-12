@@ -1,5 +1,6 @@
 # Homepage
-https://t.me/gpt_unlimited_bot
+https://t.me/gpt_unlimited_bot  
+Subscribe to https://t.me/neural_ai_news to start using as is
 # Installation
 1. Clone project
 2. Create new virtual enviroment in project folder ```python3 -m venv venv```
